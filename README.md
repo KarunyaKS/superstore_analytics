@@ -14,7 +14,6 @@ Central region's margin (7.5%) is roughly half of West's (15%)	Worth comparing d
 Copiers, Phones, and Accessories are the most profitable sub-categories	Protect these from blanket discount changes
 Home Office segment has the highest margin (13.6%) despite lower total sales than Consumer	Consider shifting marketing weight toward Home Office
 
-(See interview_prep.md for the full breakdown and reasoning behind each.)
 
 📈 Screenshots
 <p float="left"> <img src="chart2_subcategory_profit.png" width="45%" /> <img src="chart3_discount_margin.png" width="45%" /> </p>
