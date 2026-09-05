@@ -2,8 +2,6 @@
 
 An end-to-end analytics project that digs into ~10,000 retail orders to find out where a business is actually making and losing money — and turns that into concrete recommendations, not just charts.
 
-🔗 Live Dashboard: your-app-name.streamlit.app (replace after deploying)
-
 🧩 The Problem
 
 A retail business can have healthy total sales while quietly losing money on a subset of orders — and without breaking profit down by discount level, category, and region, that pattern stays invisible. This project finds exactly where and why profit leaks.
