@@ -39,7 +39,6 @@ cd <your-repo>
 pip install -r requirements.txt
 streamlit run app.py
 
-Opens at http://localhost:8501 — use the sidebar filters to explore by Region and Category.
 
 🔬 Approach
 Load & explore — checked shape, dtypes, missing values, duplicates.
